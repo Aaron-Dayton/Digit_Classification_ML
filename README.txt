@@ -1,6 +1,6 @@
 How to use:
 	
-	create_model.py is the code that must be compiled and run to create a model. 
+	create_model.py is the code that must be compiled and run to create and train a model. 
 	create_model.py imports mnist_loader.py and network.py.
 
 	network.py is used to initialize and perform stochastic gradient descent on 
